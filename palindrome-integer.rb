@@ -14,9 +14,3 @@ def is_palindrome(x)
     end 
     return true    
 end
-
-
-
-
-WTB Softcore
-Reforge crit more common - 45c
